@@ -1,0 +1,5 @@
+name,surname,birthday_month
+Gjyli,Mekaj,July
+Vlori,Badallaj,December
+Akil,Gashi,August
+Dona,Gashi,May
